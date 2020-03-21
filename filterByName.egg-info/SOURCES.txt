@@ -1,0 +1,8 @@
+README.txt
+setup.py
+filterByName/__init__.py
+filterByName.egg-info/PKG-INFO
+filterByName.egg-info/SOURCES.txt
+filterByName.egg-info/dependency_links.txt
+filterByName.egg-info/requires.txt
+filterByName.egg-info/top_level.txt
